@@ -8,8 +8,8 @@ If you’re interested in how I think, learn, and solve problems in modern cyber
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation](https://github.com/Tyrell-Perkins/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Tyrell-Perkins/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
