@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/tyrellperkins/">Tyrell Perkins</a>' IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/tyrellperkins/">Tyrell Perkins</a>' PM and Cybersecurity Project Portfolio 🔐
 
 I built this lab to sharpen my cybersecurity skills in a practical manner, and directly tied to real-world cyber operations. With a background in enterprise IT, vulnerability management, and defensive security across global DoD environments, I’m using this space to recreate and analyze the kinds of systems, workflows, and threats I’ve either worked with, or seen throughout my career.
 
