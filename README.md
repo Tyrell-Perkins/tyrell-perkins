@@ -1,7 +1,10 @@
 # <a href="https://www.linkedin.com/in/tyrellperkins/">Tyrell Perkins</a>' IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I built this lab to sharpen my cybersecurity skills in a practical manner, and directly tied to real-world cyber operations. With a background in enterprise IT, vulnerability management, and defensive security across global DoD environments, I’m using this space to recreate and analyze the kinds of systems, workflows, and threats I’ve either worked with, or seen throughout my career.
 
+These projects reflect how I approach cybersecurity: structured, methodical, and focused on improving detection, response, and resilience. You’ll find work ranging from vulnerability assessment pipelines to threat detection labs using tools like Splunk, Carbon Black–style EDR simulations, secure configurations, and incident response playbooks.
+
+If you’re interested in how I think, learn, and solve problems in modern cyber environments, this is where it all comes together.
 
 ## ⚠️ Vulnerability Management Projects
 
