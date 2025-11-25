@@ -13,7 +13,11 @@ If you’re interested in how I think, learn, and solve problems in modern cyber
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Tyrell-Perkins/threat-hunting-scenario-tor)**
+
+## 🎯 Project Management Portfolio
+
+- **[Project Management Portfolio](https://github.com/Tyrell-Perkins/project-management)**
 
 <hr/>
 
